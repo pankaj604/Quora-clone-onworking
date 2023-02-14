@@ -41,8 +41,8 @@ function Login() {
       <div className="login__container">
         <div className="login__logo">
           <img
-            src="https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600"
-            alt=""
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/1200px-Quora_logo_2015.svg.png"
+            alt="" width="75%" height="150"
           />
         </div>
         <div className="login__desc">
